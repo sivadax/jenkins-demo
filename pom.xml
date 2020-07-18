@@ -29,8 +29,8 @@
 					<cloudHubDeployment>
 						<uri>https://anypoint.mulesoft.com</uri>
 						<muleVersion>${app.runtime}</muleVersion>
-						<username>siva_training_029</username>
-						<password>Training123</password>                        
+						<username>xxxxxxxxx</username>
+						<password>yyyyyyyyy</password>                        
 						<applicationName>hello-jenkins-siva-training029</applicationName>
 						<environment>Sandbox</environment>
 						<properties>
